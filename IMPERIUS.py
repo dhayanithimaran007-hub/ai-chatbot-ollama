@@ -1,6 +1,6 @@
 import ollama
 messages=[]
-print("World's fastest online bot is online🦅")
+print("World's fastest local bot is online🦅")
 print("Give your commands🐧")
 print("Press Q to exit🐲")
 while True:
